@@ -284,6 +284,7 @@ if(ENABLE_LOCKSTEP_SCHEDULER STREQUAL "no")
 		rascal-electric
 		tf-g1
 		tf-r1
+		pixel-sc
 	)
 	set(all_posix_vmd_make_targets)
 
