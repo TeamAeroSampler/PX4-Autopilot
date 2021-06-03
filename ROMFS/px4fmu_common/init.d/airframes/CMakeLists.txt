@@ -45,6 +45,7 @@ px4_add_romfs_files(
 	2105_maja
 	2106_albatross
 	2200_mini_talon
+	2199_pixel-sc
 
 	2507_cloudship
 
